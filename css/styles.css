@@ -347,7 +347,7 @@ header h1 {
   margin: 0;
   font-size: 1.2rem;
   font-weight: 400;
-  color: #ececec;
+  color: #efefef;
 }
 
 #navWrapper {
@@ -388,7 +388,7 @@ footer p {
   margin: 0;
   font-weight: 300;
   text-align: center;
-  color: #ececec;
+  color: #efefef;
 }
 
 @media only screen and (min-width: 35rem) {

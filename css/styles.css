@@ -333,7 +333,7 @@ body {
 }
 
 #headerWrapper {
-  background-color: #31cb95;
+  background-color: #186348;
   color: hsl(0, 0%, 95%);
 }
 
@@ -347,7 +347,7 @@ header h1 {
   margin: 0;
   font-size: 1.2rem;
   font-weight: 400;
-  color: #efefef;
+  color: #ffffff;
 }
 
 #navWrapper {
@@ -368,6 +368,7 @@ nav ul a {
   padding: 0.75rem;
   text-align: center;
   text-decoration: none;
+  color: #1c1c1c;
 }
 nav ul a:hover {
   color: #1c1c1c;
@@ -387,7 +388,7 @@ footer p {
   margin: 0;
   font-weight: 300;
   text-align: center;
-  color: #efefef;
+  color: #ffffff;
 }
 
 @media only screen and (min-width: 35rem) {

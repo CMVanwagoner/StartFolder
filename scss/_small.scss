@@ -20,7 +20,7 @@ body {
 }
 
 #headerWrapper {
-    background-color: #31cb95;
+    background-color: #186348;
     color: $secondaryColor;
 }
 header {
@@ -53,6 +53,7 @@ nav {
             text-align: center;
             text-decoration: none;
             &:hover{ color: #1c1c1c}
+            color: $fontColor;
         }
     }
     li.active{
